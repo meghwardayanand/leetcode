@@ -2,3 +2,4 @@ algorithm_patterns/recursion/easy/test_merge_sorted_linked_lists.py
 algorithm_patterns/recursion/medium/test_power_x_n.py
 algorithm_patterns/recursion/hard/test_merge_k_lists_working.py
 algorithm_patterns/recursion/hard/test_merge_k_lists_efficient.py
+algorithm_patterns/recursion/hard/test_permutation_sequence.py
