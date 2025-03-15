@@ -1,6 +1,6 @@
 import unittest
 
-from algorithm_patterns.recursion.merge_sorted_linked_lists import ListNode, Solution
+from algorithm_patterns.recursion.easy.merge_sorted_linked_lists import ListNode, Solution
 
 
 def list_to_linked_list(lst):
