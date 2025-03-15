@@ -1,1 +1,4 @@
 *.pyc
+*/__pycache__/*
+algorithm_patterns/__pycache__/*
+__pycache__/*
